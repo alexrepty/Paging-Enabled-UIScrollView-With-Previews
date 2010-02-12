@@ -1,0 +1,99 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ScrollViewPagingExampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1288, 829}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 577}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScrollViewPagingExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1288, 829}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 700}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ScrollViewPagingExample */ = {
+		activeExec = 0;
+		executables = (
+			B4EFEA2611257F62006D463B /* ScrollViewPagingExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ScrollViewPagingExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1288, 806}}";
+			sepNavSelRange = "{276, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ScrollViewPagingExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1288, 806}}";
+			sepNavSelRange = "{461, 0}";
+			sepNavVisRange = "{0, 1475}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B4EFEA2611257F62006D463B /* ScrollViewPagingExample */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScrollViewPagingExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ScrollViewPagingExample */,
+		);
+		codeSenseManager = B4EFEA3911257F81006D463B /* Code sense */;
+		executables = (
+			B4EFEA2611257F62006D463B /* ScrollViewPagingExample */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 287670114;
+			PBXWorkspaceStateSaveDate = 287670114;
+		};
+		sourceControlManager = B4EFEA3811257F81006D463B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B4EFEA2611257F62006D463B /* ScrollViewPagingExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScrollViewPagingExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B4EFEA3811257F81006D463B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B4EFEA3911257F81006D463B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
